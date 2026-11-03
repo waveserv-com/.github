@@ -1,4 +1,4 @@
-<p align="center"><img src="logo.png" alt="Photo" /></p>
+<p align="center"><img src="logo.png" alt="Waveserv logo" width="160" /></p>
 
 <h1 align="center">waveserv.com</h1>
 <p align="center">
