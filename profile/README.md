@@ -1,4 +1,4 @@
-[Photo](logo.png)
+<p align="center"><img src="logo.png" alt="Photo" /></p>
 
 <h1 align="center">waveserv.com</h1>
 <p align="center">
